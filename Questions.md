@@ -36,7 +36,7 @@ These constructors are called automatically at the appearance of a new object fo
 (7)	Provide code for a constructor for the bank account class.
 
 class BankAcount
-(
+{
 Private :
 char name [20];
 string number ;
